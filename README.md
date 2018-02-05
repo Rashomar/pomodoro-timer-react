@@ -1,5 +1,5 @@
 # Pomodoro-Timer
-A simple pomodoro timer using React.
+A simple pomodoro timer using React.[Demo](https://rashomar.github.io/pomodoro-timer-react/)
 
 ### What is Pomodoro Technique?
 The Pomodoro Technique is a time management method developed by Francesco Cirillo in the late 1980s.
